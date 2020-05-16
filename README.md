@@ -1,4 +1,4 @@
-# Student profiles _PISA 2012_ data analysis.
+# Student profiles PISA 2012 data analysis.
 
 ## Intro
 This is a **student project** from the **Udacity Nanodegree "Data Analyst"**.
