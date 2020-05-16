@@ -37,7 +37,7 @@ The variables I chose to analyze are the type of population (native or emigrant)
 - Scores are negative correlated with truancy.
 - The smallest difference in scores between natives and immigrants occurs among those who skip classes once or twice.
 
-#### My analysis documentation:
+## My analysis:
 - **pisa_exploratory_data_analysis.ipynb** (**and** its **html version**) exploration of dataset using Python visualization libraries. 
 Starting from plots of single variables and building up to plots of multiple variables.
 - **pisa_slide_deck_ppt.html** (**and** its **ipynb version**) is a short presentation that illustrates relationships and properties that I discovered in the dataset.
